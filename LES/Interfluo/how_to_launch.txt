@@ -1,0 +1,3 @@
+blockMesh
+postProcess -func 'writeCellCentres' -time 0
+pimpleFoam
